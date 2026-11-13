@@ -1,0 +1,16 @@
+
+.f1-table {
+  font-family: Arial, sans-serif;
+  margin-left: 4rem;
+  margin-top: 1.5rem;
+}
+
+.f1-table th,
+.f1-table td {
+  padding: 0.5rem 0 0.5rem 0;
+  text-align: left;
+}
+
+.posn { width: 3rem; }
+.name { width: 6rem; }
+
